@@ -10,7 +10,7 @@ VALUES ("IT tech", 45000,"IT", 1),
        ("manager", 95000,"QA", 2),
        ("chem B", 75000,"QC", 3),
        ("head manager", 45000,"QA", 4);
-       
+
 
  INSERT INTO employee (first_name, last_name, role_id, manager ,manager_id )
 VALUES ("miles", "prowler", 001,"Rotor", 001 ),
